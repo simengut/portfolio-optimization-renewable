@@ -1,0 +1,4 @@
+Ticker,Final Return (mean),Final Return (std),Annualized Vol (mean),Annualized Vol (std),Sharpe Ratio (mean),Sharpe Ratio (std)
+ICLN,0.3241,0.1564,0.2928,0.004,0.2794,0.0568
+PBW,-0.0665,0.159,0.4044,0.0043,0.173,0.0588
+QCLN,0.7296,0.2775,0.3632,0.0042,0.3906,0.0614
